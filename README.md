@@ -1,4 +1,7 @@
 ### Hi there 👋
+it's a meeee juber010.
+
+currently studying (short for "student dying") at HSNR
 
 <!--
 **juber010/juber010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
